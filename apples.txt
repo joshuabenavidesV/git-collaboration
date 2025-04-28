@@ -1,6 +1,23 @@
-granny smith
-Golden Delicious
-Honey Crisp
-Gala
-Fuji
-Mclntosh Red
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <title>This is Apple Farm</title>
+    <h1>Josh's Apples Farm</h1>
+    <h3> We will help you find the perfect apples</h2>
+    <p>Hello welcome, here is my list of apples</p>
+    <ul>
+    <li>granny smith</li>
+    <li>Golden Delicious</li>
+    <li>Honey Crisp</li>
+    <li>Gala</li>
+    <li>Fuji</li>
+    <li>Mclntosh Red</li>
+    </ul>
+</body>
+</html>
